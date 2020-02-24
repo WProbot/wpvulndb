@@ -1,5 +1,5 @@
 
-Simple script to look for Vulnerabilities in Wordpress plugins
+Simple script to look for Vulnerabilities in Wordpress plugins using wpvulndb API
 
 Usage
 
